@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Felipe" alt="Typing SVG" /></a>
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
-Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Python**, sempre buscando evoluir com cada projeto.
+Atualmente estou explorando os fundamentos de **Java e React** e desenvolvendo APIs com **Django e C#**, sempre buscando evoluir com cada projeto.
 
-✨ Gosto de unir lógica e criatividade — inspirado por jogos como *Deltarune* e mundos de fantasia.
+✨ Atualmente utilizando VScode e as várias versões do JetBrains como IDEs.
 
 ---
 
@@ -12,7 +12,7 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 - Aprimorando minhas habilidades em Front-End com HTML, CSS e JavaScript  
 - Estudando lógica de programação e estruturas de dados em Java  
 - Fazendo um projeto em Django para praticar o Back-end
-- Me aprofundando em conceitos de banco de dados (MySQL)
+- Me aprofundando em conceitos de banco de dados (Pandas)
 
 ---
 
@@ -20,7 +20,7 @@ Atualmente estou explorando os fundamentos de **HTML, CSS, JavaScript, C e Pytho
 
 - **Site demonstrativo** para mostrar minhas técnicas básicas de HTML, CSS e JS  
 - **Programas em C** para praticar lógica, vetores, funções e modularização  
-- **Banco de Dados para Fintech** modelado em SQL, trabalhando com tabelas, relacionamentos e consultas  
+- **Banco de Dados para uma Fintech** modelado em SQL, trabalhando com tabelas, relacionamentos e consultas  
 - Scripts em Python para automatização de tarefas simples enquanto aprendo
 
 ---
