@@ -1,17 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Jo%C3%A3o+Felipe" alt="Typing SVG" /></a>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
-Atualmente estou explorando os fundamentos de **Java e React** e desenvolvendo APIs com **Django e C#**, sempre buscando evoluir com cada projeto.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia em geral.  
+Atualmente estou explorando os fundamentos de kotlin e desenvolvendo minhas habilidades com **C#**, sempre aprendendo a cada projeto.
 
-✨ Atualmente utilizando VScode e as várias versões do JetBrains como IDEs.
+✨ Atualmente utilizando VScode e as várias versões do JetBrains como IDEs (específicamente Rider e IntelliJ).
 
 ---
 
 🧠 No que estou focando agora
 
-- Aprimorando minhas habilidades em Front-End com HTML, CSS e JavaScript  
+- Aprimorando minhas habilidades em Front-End com AngularJS  
 - Estudando lógica de programação e estruturas de dados em Java  
-- Fazendo um projeto em Django para praticar o Back-end
+- Fazendo um projeto em C# para praticar o Back-end
 - Me aprofundando em conceitos de banco de dados (Pandas)
 
 ---
@@ -22,6 +22,7 @@ Atualmente estou explorando os fundamentos de **Java e React** e desenvolvendo A
 - **Programas em C** para praticar lógica, vetores, funções e modularização  
 - **Banco de Dados para uma Fintech** modelado em SQL, trabalhando com tabelas, relacionamentos e consultas  
 - Scripts em Python para automatização de tarefas simples enquanto aprendo
+- Desenvolvendo um projeto de treino em Kotlin + JetPack Compose
 
 ---
 
@@ -67,11 +68,11 @@ Jogador de indies como *Deltarune*, sempre em busca de testar a lógica e me des
 Leitor de livros de programação para aprender mais e de fantasia para alimentar a imaginação,  
 E consumidor constante de vídeos de tecnologia para me manter atualizado.
 
-Curioso e apaixonado por construir coisas do zero — cada novo projeto é uma oportunidade de crescer como programador.
+Curioso e apaixonado por construir coisas do zero — cada novo projeto é uma oportunidade de crescer como programador e como pessoa.
 
 ---
 
-🔗 Como me achar
+🔗 Como me encontrar
 
 - LinkedIn: https://www.linkedin.com/in/joão-felipe-mokdse-costa/ 
 - Email: joaofe.mokdse@gmail.com  
